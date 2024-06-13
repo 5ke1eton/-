@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Расчёты в астрофизике", "Расчёты в астрофизике\Расчёты в астрофизике.csproj", "{81A00B1A-EE61-49AA-BA05-937FD5F9224A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81A00B1A-EE61-49AA-BA05-937FD5F9224A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A00B1A-EE61-49AA-BA05-937FD5F9224A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A00B1A-EE61-49AA-BA05-937FD5F9224A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A00B1A-EE61-49AA-BA05-937FD5F9224A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9ED3B40-67E1-4B3A-A436-2B49E572CB98}
+	EndGlobalSection
+EndGlobal
